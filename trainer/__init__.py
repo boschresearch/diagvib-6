@@ -1,1 +1,0 @@
-from .trainer_setup import ResNet18Trainer
